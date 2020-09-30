@@ -8,7 +8,7 @@ end
 
 loop_message_n_times(message, times)
 count = 0 
-while count < limit do
+while count < times do
   puts message
 count += 1 
 end
