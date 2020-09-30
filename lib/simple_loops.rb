@@ -8,3 +8,5 @@ end
 
 loop_message_n_times(message, times)
 count = 0 
+while count < limit 
+do 
