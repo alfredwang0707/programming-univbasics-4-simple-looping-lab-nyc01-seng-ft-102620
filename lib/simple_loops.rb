@@ -7,3 +7,4 @@ end
 end 
 
 loop_message_n_times(message, times)
+count = 0 
