@@ -4,3 +4,6 @@ def loop_message_five_times(message)
 do puts message
 count += 1 
 end 
+end 
+
+loop_message_n_times()
