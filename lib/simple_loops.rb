@@ -6,4 +6,4 @@ count += 1
 end 
 end 
 
-loop_message_n_times()
+loop_message_n_times(message, times)
