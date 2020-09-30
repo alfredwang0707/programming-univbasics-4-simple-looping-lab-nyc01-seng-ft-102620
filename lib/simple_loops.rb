@@ -30,4 +30,5 @@ def return_string_array(array)
     new_array << array[count].to_s
     count += 1 
   end 
+  puts new_array
 end
